@@ -1,6 +1,6 @@
 # OCN_opener
 ============
-Small plugin which automatically decompresses adc_gz; fsi_gz; mir_gz; yng_gz and
+Small plugin which automatically decompresses adc_gz; fsi_gz; hadc_gz; mir_gz; yng_gz and
 gzip (.gz) files when opened in Sublime Text.
 
 This is an alpha release, use with care, feedback & code welcome!
