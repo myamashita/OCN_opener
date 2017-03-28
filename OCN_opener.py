@@ -10,12 +10,7 @@ import sublime_plugin
 
 compression_formats = {
     '.gz': gzip.open,
-    '.adc_gz': zlib.decompress,
-    '.fsi_gz': zlib.decompress,
-    '.hadc_gz': zlib.decompress,
-    '.mir_gz': zlib.decompress,
-    '.yng_gz': zlib.decompress,
-
+    '_gz': zlib.decompress,
     # '.bz2': bz2.open,
 }
 
